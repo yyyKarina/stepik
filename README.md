@@ -1,2 +1,0 @@
-# stepik
-stepik labs
